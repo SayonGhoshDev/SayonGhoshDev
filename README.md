@@ -25,6 +25,7 @@
 </div>
 
 <div align="center">
+ <div align="center">
   <h3>📊 GitHub Stats</h3>
   
   <img src="https://github-readme-stats.vercel.app/api?username=SayonGhoshDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Sayon's Stats" />
@@ -32,17 +33,5 @@
   
   <br/>
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayonGhoshDev&theme=tokyonight&hide_border=true&background=0D1117" alt="Sayon's Streak" />
-  </a>
-</div>
-
-<div align="center">
-  
-  ---
-  
-  <a href="https://www.linkedin.com/in/sayonghosh/">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayonGhoshDev&theme=tokyonight&hide_border=true&background=0D1117" alt="Sayon's Streak" />
 </div>
