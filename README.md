@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Sayon%20Ghosh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20for%20the%20Future%20🚀&descAlignY=55&descAlign=50" />
+</div>
 
-<!--
-**SayonGhoshDev/SayonGhoshDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>
+    CSE Undergrad @ Narula Institute of Technology <br/> 
+    Top 100 CA @ E-Cell IIT Bombay
+  </h3>
+  <h4>
+    🚀 Exploring AI, Machine Learning & Full Stack Development
+  </h4>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  ---
+  
+  ### 🛠️ Tech Stack & Tools
+  
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+  
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SayonGhoshDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Sayon's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayonGhoshDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Sayon's Top Langs" />
+  
+  <br/>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayonGhoshDev&theme=tokyonight&hide_border=true&background=0D1117" alt="Sayon's Streak" />
+  </a>
+</div>
+
+<div align="center">
+  
+  ---
+  
+  <a href="https://www.linkedin.com/in/sayonghosh/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  
+</div>
