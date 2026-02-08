@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    CSE Undergrad @ Narula Institute of Technology <br/> 
-    Top 100 CA @ E-Cell IIT Bombay
+    CSE Undergraduate @ Narula Institute of Technology <br/> 
+    Top 100 Campus Ambassador @ E-Cell IIT Bombay
   </h3>
   <h4>
-    🚀 Exploring AI, Machine Learning & Full Stack Development
+    🚀 Exploring Embedded Systems, DSA & Software Development
   </h4>
 </div>
 
@@ -18,10 +18,7 @@
   
   ### 🛠️ Tech Stack & Tools
   
-  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,react,nextjs,nodejs,express" />
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,vscode,figma,cpp,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,arduino,git,github,vscode" />
   
   ---
 
