@@ -18,7 +18,10 @@
   
   ### 🛠️ Tech Stack & Tools
   
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,react,nextjs,nodejs,express" />
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,vscode,figma,cpp,arduino" />
   
   ---
 
